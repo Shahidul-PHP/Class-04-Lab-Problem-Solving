@@ -90,7 +90,7 @@ echo '<br>';
 echo '<br>';
 //problem 08
 
-$checkNumber = 37;
+$checkNumber = 38;
 
 if($checkNumber % 2 == 0){
     echo  $checkNumber ," is even";
